@@ -1,3 +1,4 @@
+<div  style="background-color: #e3f2fd; border-radius: 10px; padding: 15px; margin-bottom: 20px;>
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 <h3 align="left">Connect with me:</h3>
@@ -67,3 +68,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
 </p>
+
+</div>
