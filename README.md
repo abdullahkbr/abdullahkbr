@@ -21,6 +21,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
+  <!-- Shopify and Liquid icons added here -->
+  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40" />
+  </a>
+  <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/liquid/liquid-original.svg" alt="Liquid" width="40" height="40" />
+  </a>
 </p>
-
-
