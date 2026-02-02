@@ -49,25 +49,10 @@
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="40" height="40" />
   </a>
-  <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquid/liquid-original.svg" alt="Liquid" width="40" height="40" />
-  </a>
-  <a href="https://www.shopify.com/plus" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify Plus" width="40" height="40" />
-  </a>
-</p>
-
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
+  
+<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=liquid&logoColor=white" alt="Liquid" />
+</a>
 </p>
 
 <h4 align="left">Version Control & Tools:</h4>
