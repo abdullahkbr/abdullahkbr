@@ -1,4 +1,4 @@
-<div  style="background-color: #e3f2fd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+<div  style="background-color: #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 <h3 align="left">Connect with me:</h3>
