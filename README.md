@@ -14,16 +14,20 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p display="flex" gap="20px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,tailwind,shopify,git,github,vscode&perline=11" />
+  </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flex_Layout-Enabled-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-success?style=flat-square&logo=googlechrome" />
+</div>
 
 ---
 
