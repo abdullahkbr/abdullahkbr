@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Abdullah</h1>
-  <p><b>Software Engineer | Frontend & Shopify Developer | Data Scraper</b></p>
+  <p><b>Software Engineer | Frontend | React | Shopify Developer | Data Scraper</b></p>
 </div>
 
 ---
