@@ -84,7 +84,7 @@
 <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
   <h3 align="left" style="color: #58a6ff;">📊 GitHub Dashboard</h3>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abudllahkbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdullah's Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abudllahkbr&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahkbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdullah's Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkbr&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </div>
