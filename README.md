@@ -37,17 +37,6 @@
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=liquid&logoColor=white" alt="Liquid" />
 </p>
 
----
-
-### ⚙️ Version Control & Tools:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
-
----
-
 ### 📊 GitHub Dashboard
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahkbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
